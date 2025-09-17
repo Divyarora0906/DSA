@@ -1,0 +1,14 @@
+How Java Works?
+
+JDK --> JRE --> JVM
+
+Java Development Kit;
+Java Runtime Enviroment (Tools);
+
+Source Code(.java) -> Compiler -> Byte Code(.class) -> Java Virtual Machine -> Native Code
+
+Native Code is Machine Code.
+Source to ByteCode = Compilation.
+ByteCode to Native Code = Execution.
+
+Java is a Portable Language
