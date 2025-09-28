@@ -1,3 +1,4 @@
+package Java.Basics;
 //When Type Conversion is Done Forcefully then this process is know as Type Casting.
 
 public class TypeCasting {

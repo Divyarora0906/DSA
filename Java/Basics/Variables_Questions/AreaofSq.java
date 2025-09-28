@@ -1,4 +1,5 @@
 package Variables_Questions;
+
 import java.util.Scanner;
 
 public class AreaofSq {

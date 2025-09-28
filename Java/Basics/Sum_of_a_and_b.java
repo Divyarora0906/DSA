@@ -1,3 +1,5 @@
+package Java.Basics;
+
 public class Sum_of_a_and_b{
     public static void main(String[] args){
       int a = 5;;

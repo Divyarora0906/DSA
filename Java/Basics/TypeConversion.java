@@ -1,3 +1,4 @@
+
 //Type Conversion - byte->short->int->float->long->double
 
 //long - 8 bytes = int 4 bytes (Java Allow this) because

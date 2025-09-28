@@ -1,3 +1,5 @@
+
+
 public class Datatypes{
     public static void main(String[] args){
         //Data types are used to define the type of data a variable can hold
